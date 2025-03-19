@@ -5,7 +5,20 @@ Collections on Vaccination Discourse by Polititians
 
 We made available the following output from our annotation system:
 
-...
+tweets_annotated.csv: The final corpus in Brazilian Portuguese with stance, sentiment and relevance annotations after considering the majority of annotators, also indicating the tweet id and date of the post
+
+For the relevant column, the value 0 indicates that the tweet, even though it contains the keywords used in the search, is not related to Covid-19 Vaccines. 1 indicate that it is related to Covid-19 vaccines.
+
+The final_stance column has three categories: favorable, unfavorable and unclear towards COVID-19 vaccines.
+
+final_sentiment also has three categories: positive, negative and unclear. Sentiment was annotated considering the overall sentiment expressed in the text, not in relation to COVID-19 vaccines;
+
+Lastly, the final_children column indicates if the tweet is related to vaccination in Children. False indicates no relation, and True indicates that the tweet is about childrens' vaccination.
+
+Codebook: We also provide the codebook with informations on the dataset building process, classification rules and some additional content.
+
+STIL Presentations Slides: Addittionally, we include the slides of the STIL presentation (October 28th, 2023).
+
 
 
 
