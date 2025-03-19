@@ -17,9 +17,7 @@ Lastly, the final_children column indicates if the tweet is related to vaccinati
 
 Codebook: We also provide the codebook with informations on the dataset building process, classification rules and some additional content.
 
-STIL Presentations Slides: Addittionally, we include the slides of the STIL presentation (October 28th, 2023).
-
-
+NLP4DH Presentations Slides: Addittionally, we include the slides of the NLP4DH presentation (May 3-4, 2025).
 
 
 
