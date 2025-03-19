@@ -26,6 +26,11 @@ NLP4DH Presentations Slides: Addittionally, we include the slides of the NLP4DH 
 Barberia, L., Schmalz, P., Roman, N. T., Lombard, B., & Sousa, T. C. M. (2025). It's about What and How you say it: A Corpus with Stance and Sentiment Annotation for COVID-19 Vaccines Posts on X/Twitter by Brazilian Political Elites. In Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities (NLP4DH 2025).
 
 
+## Acknowledgments and Partnerships
+
+This research project was made possible by grant support from the José Luiz Egydio Setúbal Foundation (JLES). In addition, the authors acknowledge support from the Center for Artificial Intelligence of the University of São Paulo (C4AI - http://c4ai.inova.usp.br/) and its supporting grants from the São Paulo Research Foundation (FAPESP grant \#2019/07665-4) and the IBM Corporation. The project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law N. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published as Residence in TIC 13, DOU 01245.010222/2022-44.
+
+
 ## License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
