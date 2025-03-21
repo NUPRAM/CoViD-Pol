@@ -1,5 +1,5 @@
 # CoViD-Pol
-Collections on Vaccination Discourse by Polititians
+Collections on Vaccination Discourse by Politicians
 
 ## Content
 
