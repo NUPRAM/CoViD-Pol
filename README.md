@@ -23,7 +23,7 @@ NLP4DH Presentations Slides: Addittionally, we include the slides of the NLP4DH 
 
 ## Related Articles
 
-Barberia, L., Schmalz, P., Roman, N. T., Lombard, B., & Sousa, T. C. M. (2025). It's about What and How you say it: A Corpus with Stance and Sentiment Annotation for COVID-19 Vaccines Posts on X/Twitter by Brazilian Political Elites. In Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities (NLP4DH 2025).
+Barberia, L., Schmalz, P., Roman, N. T., Lombard, B., & Sousa, T. C. M. (2025). It's about What and How you say it: A Corpus with Stance and Sentiment Annotation for COVID-19 Vaccines Posts on X/Twitter by Brazilian Political Elites. In Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities (NLP4DH 2025). Available at: https://aclanthology.org/2025.nlp4dh-1.32/
 
 
 ## Acknowledgments and Partnerships
