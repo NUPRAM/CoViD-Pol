@@ -5,7 +5,7 @@ Collections on Vaccination Discourse by Politicians
 
 We made available the following output from our annotation system:
 
-tweets_annotated.csv: The final corpus in Brazilian Portuguese with stance, sentiment and relevance annotations after considering the majority of annotators, also indicating the tweet id and date of the post
+CovidPol_Corpus_2.0.csv: The final corpus in Brazilian Portuguese with stance, sentiment and relevance annotations after considering the majority of annotators, also indicating the tweet id and date of the post
 
 For the relevant column, the value 0 indicates that the tweet, even though it contains the keywords used in the search, is not related to Covid-19 Vaccines. 1 indicate that it is related to Covid-19 vaccines.
 
