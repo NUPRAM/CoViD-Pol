@@ -30,7 +30,7 @@ We made available the following output from our annotation system:
 
 - **Codebook v.1.0 (2023)**: We also provide the codebook with informations on the dataset building process, classification rules and some additional content for this first version of the corpus.
 
-- **STIL (2023) Presentation Slides and Article**: Additionally, we include the slides of the NLP4DH presentation (October, 2023) and the Accepted article on the subfolder `STIL (2023)`.
+- **STIL (2023) Presentation Slides and Article**: Additionally, we include the slides of the STIL presentation (October, 2023) and the Accepted article on the subfolder `STIL (2023)`.
 
 
 
