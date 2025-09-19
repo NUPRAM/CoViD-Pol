@@ -1,7 +1,9 @@
 # CoViD-Pol
 Collections on Vaccination Discourse by Politicians
 
-## NUPRAM
+## How to cite this corpus
+
+
 
 ## Content
 
