@@ -3,7 +3,13 @@ Collections on Vaccination Discourse by Politicians
 
 ## How to cite this corpus
 
+### APA
 
+Barberia, L. G. B., Sousa, T. C. M., Lombard, B., Schmalz, P. S., de Paula, G., Vilela Pinto, D. A., Masiero, A., da Silva Batista, L. H., de Almeida Silva, F., Almeida, S., Rosa, E., Gonçalves, P., Claudino de Almeida Silva, G., Machado Farias, L., Domingues Aparecido, T., & Roman, N. T. (2025). Mapping Political Elites COVID-19 Vaccine Tweets in Brazilian Portuguese, 2020-2022 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17176736
+
+### ABNT-BR
+
+BARBERIA, L. G. B.; SOUSA, T. C. M.; LOMBARD, B.; SCHMALZ, P. S.; PAULA, G. de; VILELA PINTO, D. A.; MASIERO, A.; SILVA BATISTA, L. H. da; ALMEIDA SILVA, F. de; ALMEIDA, S.; ROSA, E.; GONÇALVES, P.; CLAUDINO DE ALMEIDA SILVA, G.; MACHADO FARIAS, L.; DOMINGUES APARECIDO, T.; ROMAN, N. T. Mapping Political Elites COVID-19 Vaccine Tweets in Brazilian Portuguese, 2020-2022 [conjunto de dados]. 2025. Disponível em: https://doi.org/10.5281/zenodo.17176736. Acesso em: 24 set. 2025.
 
 ## Content
 
